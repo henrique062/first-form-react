@@ -9,7 +9,7 @@ function App() {
     <Routes>
       <Route path="/" element={<Inicio />} />
       <Route path="/sobremim" element={<SobreMim />} />
-      <Route path="*" element={<div>Página não encontrada</div>} />
+      <Route path="*" element={<div>Página não encontrada </div>} />
     </Routes>
   </BrowserRouter>
 
