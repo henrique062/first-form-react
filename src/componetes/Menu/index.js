@@ -1,4 +1,4 @@
-import { Link, useLocation } from 'react-router-dom';
+import { Link, NavLink, useLocation } from 'react-router-dom';
 import MenuLink from '../MenuLink';
 import styles from './Menu.module.css';
 
